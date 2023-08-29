@@ -1,0 +1,113 @@
+
+#contenedorTexto {
+    position: relative;
+    top: 100px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#contenedorTexto p{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	font-size: 38px;
+    text-align: center;
+    margin: 100px 0;
+}
+
+#contenedorTexto h2{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	font-size: 48px;
+    text-align: center;
+}
+
+#inputsBoton{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+
+#edad{
+    margin: 15px
+}
+
+#boton_calculo{
+    margin-top: 10px;
+    
+    font-size: large;
+    
+    background-color: black;
+    padding: .375rem .75rem;
+    border: 2px solid rgba(247, 228, 190);
+    border-radius: 1.25rem;
+    color: rgba(247, 228, 190);
+    transition: color .15s ease-in-out,
+        background-color .15s ease-in-out;
+    
+  }
+#boton_calculo:hover {
+    color: black;
+    background-color: rgba(247, 228, 190);
+  }
+
+
+#contenedorResultado{
+    position: relative;
+    top: 100px;
+    display: none;
+    flex-wrap: wrap;
+    height: auto;
+    width: 94%;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    
+}
+
+.cajaPlanetas{
+    
+    width: 250px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 3px;
+    background-color: rgba(247, 228, 190, 0.4);
+    z-index: -1;
+}
+
+.cajaPlanetas h2{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	font-size: 35px;
+    text-align: center;
+}
+
+.cajaPlanetas h4{
+    font-family: 'Titillium Web', sans-serif;
+    padding-top: 40px;
+    padding-left: 25px;
+    color: #ffffff;
+	margin: 0;
+}
+
+.cajaPlanetas span{
+    font-family: 'Titillium Web', sans-serif;
+    color: rgba(247, 228, 190);
+    margin-left: 15px;
+    font-size: x-large;
+	
+}
+
+.caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.size{
+    width: 100px;
+    height: 100px;
+}
+#sizeSat{
+    width: 200px;
+    height: 100px;
+}

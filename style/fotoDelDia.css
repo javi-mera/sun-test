@@ -1,0 +1,131 @@
+main{
+    position: relative;
+    top: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+article{
+    border: 0.5px solid white;
+    max-width: 975px;
+    margin: 0 auto;
+    height: auto;
+
+    padding: 30px;
+    border-radius: 8px;
+    border-style: hidden;
+    background-color: rgb(247, 228, 190, 0.4);
+    z-index: -1;
+}
+#fotoDia{
+    display:none
+}
+
+#buscador{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+}
+article span, p{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+}
+#contenedorItem{
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contenedorItem p{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 35px;
+    text-align: center;
+    
+}
+#buscador p{
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    margin-bottom: 30px;
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+#boton_fechaFoto{
+    margin-top: 10px;
+    
+    font-size: large;
+    
+    background-color: black;
+    padding: .375rem .75rem;
+    border: 2px solid rgba(247, 228, 190);
+    border-radius: 1.25rem;
+    color: rgba(247, 228, 190);
+    transition: color .15s ease-in-out,
+        background-color .15s ease-in-out;
+    
+  }
+#boton_fechaFoto:hover {
+    color: black;
+    background-color: rgba(247, 228, 190);
+  }
+
+#boton_foto_dia{
+
+    position: relative;
+    font-size: x-large;
+    background-color: black;
+    padding: .375rem .75rem;
+    border: 2px solid rgba(247, 228, 190);
+    border-radius: 1.25rem;
+    color: rgba(247, 228, 190);
+    transition: color .15s ease-in-out,
+        background-color .15s ease-in-out;
+    
+}
+#boton_foto_dia:hover, #boton_foto_dia:active, #boton_foto_dia:focus {
+    color: black;
+    background-color: rgba(247, 228, 190);
+}
+.caja{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    background: #333944;
+  }
+.box{
+    width: auto;
+    height: auto;
+    background: #CCC;
+    overflow: hidden;
+
+  }
+  
+.box img, iframe{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+#spanData{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+  /* @supports(object-fit: cover){
+      .box img{
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+      }
+  } */

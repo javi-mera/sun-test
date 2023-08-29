@@ -1,0 +1,220 @@
+body{
+    background: url(/images/stars.jpg);
+    margin: 0;
+}
+
+header h2{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	margin: unset;
+    font-size: 90px;
+    padding-top: 100px;
+}
+
+header h4{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	margin: unset;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 40px;
+}
+
+footer{
+    display: grid;
+    justify-content: center;
+    height: 250px;
+    align-content: space-evenly;
+    background-color: #73626e;
+    -moz-box-shadow: inset 0 11px 6px -5px #000000;
+    -webkit-box-shadow: inset 0 11px 6px -5px #000000;
+    box-shadow: inset 0 11px 6px -5px #000000
+}
+footer h4, a{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	margin: unset;
+    
+    text-align: center;
+    text-decoration: none;
+}
+#infoWeb{
+    height: 750px;
+    text-align: center;
+    background-image: url(/images/imgHeader.jpg);
+    background-position: center 91% ;
+    z-index: 1;
+    position: relative
+}
+
+
+#infoWeb::after {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.6);
+    z-index:-1;
+}
+
+
+/* MENCIONES LEGALES */
+
+#menciones{
+    position:relative;
+    top: 150px;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 8px;
+    border-style: hidden;
+    background-color: rgb(247, 228, 190, 0.4);
+    z-index: -1;
+}
+
+#menciones p{
+    font-size: 20px;
+}
+/* BARRA DE NAVEGACIÓN */
+
+header {
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    background: #73626e;
+    display: block;
+    color: white;
+    cursor: pointer;
+    font-size: 1.5em;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.menu, .submenu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+.menu{
+    background: #73626e;
+    width: 100%;
+    border: 1px solid black;
+    transition: all 0.5s;
+    -moz-box-shadow:  0 11px 6px -5px #73626e;
+    -webkit-box-shadow:  0 11px 6px -5px #73626e;
+    box-shadow: 0 2px 5px 4px #73626e, 0 -2px 5px 4px #73626e; 
+}
+
+
+.menu_link{
+    display: block;
+    padding: 19px 28px;
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+    align-items: center;
+    margin: 0px 3px;
+    border-radius: 8px;
+}
+.menu_link:hover{
+    background: #444;
+}
+.submenu .menu_link:hover{
+    background: #222;
+}
+.submenu{
+    height: 0;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+.submenu .menu_link{
+    background: #333;
+}
+.mostrar{
+    margin-left: 0;
+}
+#logo{
+    color: #f0b49e;
+    font-size: 25px;
+    
+} 
+@media(min-width: 1024px){
+    .nav-bar{
+        display: none;
+    }
+    .menu{
+        display: flex;
+        border: none;
+        margin-top: 6px;
+    }
+    #infoWeb{
+        height: 750px;
+        text-align: center;
+        background-image: url(/images/imgHeader.jpg);
+        background-position: center 91% ;
+        z-index: 1;
+        position: relative;
+        margin-top: 67px;
+    }
+    #logo{
+        display: flex;
+        margin-right: auto;
+        font-size: 1.5em;
+        text-decoration: none;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        color: #f0b49e;
+        border: 1px solid black;
+        border-radius: 50%;
+    } 
+    
+    #infoWeb::after {
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        background:rgba(0,0,0,0.6);
+        z-index: -1;
+      }
+    .container-submenu{
+        position: relative;
+    }
+    .main-nav{
+        position: fixed;
+        width: 100%;
+        top: 0;
+        z-index: 2;
+    }
+    .submenu{
+        position: absolute;
+        top: 80px;
+        margin-top: -10px; 
+        width: 200px;
+        overflow: visible;
+        z-index: 1000;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .submenu .menu_link{
+        padding-left: 25px;
+        text-align: center;
+        
+    }
+    
+    .container-submenu:hover .submenu{
+        opacity: 1;
+        visibility: visible;
+    }
+    header h4{
+        
+        padding-left: 145px;
+        padding-right: 145px;
+        
+    }
+}

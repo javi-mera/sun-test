@@ -1,0 +1,210 @@
+
+article{
+    border: 0.5px solid white;
+    position: relative;
+    top: 73px;
+    max-width: 875px;
+    margin: 0 auto;
+    height: auto;
+    padding: 20px;
+    border-radius: 8px;
+    border-style: hidden;
+    background-color: rgba(247, 228, 190, 0.4);
+    z-index: -1;
+    
+}
+article h1{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	font-size: 45px;
+    text-align: center;
+    
+}
+
+article h2{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	margin: 0;
+}
+
+article p{
+    font-family: 'Titillium Web', sans-serif;
+    color: #ffffff;
+	margin-bottom: 30px;
+    margin-top: 0;
+}
+
+article h2:first-child{
+    margin-top: 100px;
+}
+
+#imgMarte{
+    
+    width: 400px;
+    height: 400px;
+    background: url(/images/mars.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(238, 88, 68);
+    
+} 
+
+
+@media(min-width: 1024px){
+
+article{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    /* padding: 45px 0; */
+}
+
+#imgMercurio{
+    width: 400px;
+    height: 400px;
+    background: url(/images/mercury.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(138, 133, 133);  
+} 
+
+#imgVenus{
+    width: 400px;
+    height: 400px;
+    background: url(/images/venus_surface.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(138, 133, 133);  
+}
+
+#imgTierra{
+    width: 450px;
+    height: 450px;
+    background: url(/images/earth.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(56, 62, 145);
+} 
+
+#imgMarte{
+    width: 400px;
+    height: 400px;
+    background: url(/images/mars.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(238, 88, 68);  
+} 
+
+#imgJupiter{
+    width: 400px;
+    height: 400px;
+    background: url(/images/2k_jupiter.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(173, 158, 156);  
+} 
+
+#imgSaturno{
+    width: 650px;
+    height: 400px;
+    background: url(/images/saturno-h.png);
+    background-size: cover;
+    background-repeat: round;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+} 
+
+#imgUrano{
+    width: 400px;
+    height: 400px;
+    background: url(/images/2k_uranus.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(158, 217, 243);  
+} 
+
+#imgNeptuno{
+    width: 400px;
+    height: 400px;
+    background: url(/images/2k_neptune.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 11s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(7deg);
+    box-shadow:  0 0 15px 5px rgb(40, 82, 219);  
+} 
+
+#imgSol{
+    width: 400px;
+    height: 400px;
+    background: url(/images/2k_sun.jpg);
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    -webkit-animation: rotacion 2s;
+    animation: rotacion 40s infinite linear;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow:  0 0 15px 5px rgb(177, 126, 17);  
+} 
+
+}
+@-webkit-keyframes rotacion{
+    to{
+        background-position: 800px 0 ;
+    }
+}
+@keyframes rotacion{
+    to{
+        background-position: 800px 0;
+    }
+}

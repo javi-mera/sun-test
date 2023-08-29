@@ -1,0 +1,65 @@
+
+    img{
+        width: 400px;
+        height: 400px;
+    }
+    #contenedorFotos{
+        position: relative;
+        top: 100px;
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        width: 94%;
+        margin: 0 auto;
+        justify-content: space-evenly;
+    }
+   
+    #box{
+        width: 400px;
+        height: 500px;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 3px;
+        background-color: rgba(247, 228, 190, 0.4);
+        z-index: -1; 
+    }
+    .caja{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .size{
+        width: 400px;
+        height: 400px;
+    }
+    #contenedorItems{
+        position: relative;
+        top: 100px;
+        max-width: 1000px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #contenedorItems p{
+        font-family: 'Titillium Web', sans-serif;
+        color: black;
+        font-size: 38px;
+        text-align: center;
+        margin: 50px 0;
+    }
+    #boton_buscador{
+        font-size: large;
+        margin-top: 15px;
+        background-color: black;
+        padding: .375rem .75rem;
+        border: 2px solid rgba(247, 228, 190);
+        border-radius: 1.25rem;
+        color: rgba(247, 228, 190);
+        transition: color .15s ease-in-out,
+            background-color .15s ease-in-out;
+    }
+    #boton_buscador:hover, #boton_buscador:active, #boton_buscador:focus {
+        color: black;
+        background-color: rgba(247, 228, 190);
+    }

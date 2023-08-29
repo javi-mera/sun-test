@@ -1,0 +1,378 @@
+{
+    "sistemaSolar": [
+        {
+            "titulo":"Más Sol que planetas", 
+            "texto": "El Sol, nuestra estrella principal es de una inmensidad que incluso te sorprendería saber que conforma más del 99% de toda la masa existente en el Sistema Solar. Ni juntando las masas de todos los planetas, podrían igualar en tamaño al Sol."
+        },
+        {
+            "titulo":"Un gran vacío", 
+            "texto": "Pese al gran tamaño del Sol y de que el Sistema Solar está conformado no sólo por los 8 planetas que conocemos, sino por planetas menores y objetos cósmicos, no igualan la gran cantidad de espacio que hay en él. La totalidad de la masa que habita en él, es demasiado pequeña en comparación con el vació que existe entre cada elemento del sistema."
+        },
+        {
+            "titulo":"Qué edad tiene", 
+            "texto": "Según la NASA, el Sistema Solar tiene 4,500 millones de años de edad. Se formó a partir de una nube densa de gas y polvo estelar. Los datos indican que la nube colapsó probablemente debido a la onda de choque de una supernova cercana. Luego la gravedad hizo lo suyo, formando nuestro hogar."
+        },
+        {
+            "titulo":"¿Qué lugar ocupa?", 
+            "texto": "El Sistema Solar en sí mismo ya representa un gran vacío, pero el hogar de nuestro conjunto de planetas habita dentro de otro vacío todavía más grande; la Vía Láctea. Orbita al centro de esta a unos 828 mil kilómetros por hora y forma parte de uno de los brazos espirales llamado el brazo de Orión o el brazo local."
+        },
+        {
+            "titulo":"El segundo objeto más grande", 
+            "texto": "El Sol es el objeto más grande del conjunto planetario, luego de él sigue Júpiter, el planeta masivo es 318 veces más grande que la Tierra y 2.5 más grande que todos los planetas restantes juntos."
+        },
+        {
+            "titulo":"Tiene su propia capa protectora", 
+            "texto": "Al igual que la Tierra y todos los planetas, el Sistema Solar posee su propio campo magnético protector. Está formado por iones procedentes de la atmósfera solar que viajan en forma de vientos solares y se extienden más allá de la órbita de Plutón. El resultado es una especie de burbuja protectora que envuelve a todo el Sistema Solar."
+        },
+        {
+            "titulo":"¿Tiene borde?", 
+            "texto": "Hablando de capas protectores, también pensamos en bordes. ¿Dónde termina el Sistema Solar? Mil veces más lejos de lo que se encuentra Plutón, hallamos la última barrera gravitacional que sostiene nuestro Sol y se le llama la Nube de Oort. La conforman billones de objetos sobrantes como asteroides y cometas."
+        },
+        {
+            "titulo":"¿Cuántas lunas habitan en él?", 
+            "texto": "Sabemos que el Sistema Solar está compuesto por un Sol, 8 planetas y un puñado más de planetas enanos como Plutón. Pero, ¿cuántas lunas hay? Según los datos, nuestro sistema cuenta con más de 150 lunas, el planeta al que más lunas se le han descubierto hasta ahora es Saturno, con sus actuales 81 satélites, superando las actuales 79 de Júpiter."
+        },
+        {
+            "titulo":"Agua helada por doquier", 
+            "texto": "El hielo de agua existe en todo el Sistema Solar, contrario de lo que se pensaba con anterioridad. Ahora sabemos que existe hielo en Marte, la Luna y otros cuerpos como Europa, la luna de Júpiter y Ceres, un planeta menor."
+        },
+        {
+            "titulo":"Cinturón de asteroides", 
+            "texto": "Entre las órbitas de Marte y Júpiter, desfila un cinturón que se extiende en un grosor de al menos 500 millones de kilómetros y que está densamente poblado por asteroides. Se calcula que existen al menos 960 mil de estos objetos  orbitando en el llamado cinturón de asteroides del Sistema Solar."
+        }
+    ],
+    "sol": [
+        {
+            "titulo":"El Sol se mueve", 
+            "texto": "El Sol se mueve de una forma muy especial y cuando decimos “salió el Sol” o “el Sol está bajando”, en realidad nos estamos equivocando, lo que provoca el anochecer y el amanecer es el movimiento de la Tierra, esto es lo que llamamos el movimiento aparente del Sol. No obstante, aunque nuestro planeta sea suficientemente grande como para que no podamos apreciarlo realmente, el Sol sí se mueve, lo hace orbitando el centro de la Vía Láctea (a unos 28.000 años luz del Sol) y también arrastra todo el Sistema Solar consigo. La Tierra se mueve así a unos 828.000 km/h y realizar una órbita completa alrededor de la Vía Láctea: ¡nos toma unos 230 millones de años!"
+        },
+        {
+            "titulo":"El Sol es responsable de las mareas", 
+            "texto": "Las mareas son el movimiento regular y predecible del agua a causa de fenómenos astronómicos. En términos triviales, podríamos decir que se trata de un ascenso o bien un descenso de los mares y océanos de la Tierra, relacionados con la gravedad y los movimientos de nuestro planeta, la Luna y por supuesto, el Sol. El primero en explicar el hecho fue el gran Isaac Newton, quien aseguró que las mareas son el resultado de las fuerzas de atracción gravitatoria que el Sol y la Luna ejercen sobre la Tierra y la forma en la que éstas interactúan entre sí."
+        },
+        {
+            "titulo":"El Sol también es fundamental en casi todas las culturas", 
+            "texto": "El Sol es el astro más importante del sistema que le da nombre y siendo tan esencial para la vida en nuestro planeta, históricamente ha formado parte de la simbología de todas las culturas del mundo. Esto puede apreciarse especialmente en términos religiosos y antes de que la religión católica se expandiera y masificara en occidente, muchas de las grandes civilizaciones politeístas creían firmemente en el Sol como la máxima deidad. En oriente no hubo muchas diferencias y por ejemplo, la famosa Hinomaru, la primera insignia nacional de Japón, con el Sol como emblema oficial comúnmente conocida como “El Sol naciente”. Entre los llamados “Dioses solares”, uno puede encontrarse con varias decenas de deidades que eran relacionadas con el Sol de una jerarquía máxima, podemos nombrar a Rá para los egipcios, Quetzalcóatl para los mesoamericanos, Helios para los griegos o Apolo para los romanos, entre otros tantos."
+        },
+        {
+            "titulo":"Diferentes partes del Sol rotan a distintas velocidades", 
+            "texto": "Al tener tanto gas de hidrógeno, a diferencia de lo que ocurre con los planetas, el Sol tiene diferentes partes que rotan a distintas velocidades. Las rotaciones se pueden apreciar realizando un seguimiento de las manchas solares en la superficie de la Tierra: regiones en el Ecuador que demoran 25 días en completar una rotación, mientras que en los polos puede llevar hasta 36 días. Al interior del Sol parece llevarle unos 27 días."
+        },
+        {
+            "titulo":"El Sol tiene diferentes capas", 
+            "texto": "Aunque el Sol nos parece una enorme bola de fuego, esta estrella posee una estructura interna compleja que se distingue por sus varias capas. La capa visible del Sol es la fotosfera y ésta se calienta a una temperatura aproximada de unos 5726 ºC, debajo de esta zona de convección, en la que el calor se mueve lentamente desde el interior (donde está el núcleo) hacia la superficie, el material se enfría y cae en columnas. Por debajo de la zona de convección hay una región altamente radiactiva y allí el calor viaja en forma de radiación. En el centro del Sol está el núcleo y la temperatura del núcleo del Sol es de ~1,36 × 107 K, nada menos que unos 15.600.729 ˚C."
+        },
+        {
+            "titulo":"En gran medida, el Sol está compuesto por hidrógeno y helio", 
+            "texto": "Si fuera posible realizar un análisis químico del Sol, nos encontraríamos con que el Sol está compuesto por diversos compuestos químicos elementales, entre los cuales podríamos mencionar un 74% de hidrógeno (H) y un 24% de helio (He), además de un 2% constituido por hierro (Fe), níquel (Ni), oxígeno (O) y varios otros elementos."
+        },
+        {
+            "titulo":"El Sol es enorme, pero no tanto...", 
+            "texto": "El Sol es verdaderamente inmenso y como lo hemos visto anteriormente, el diámetro del Sol es de 1.392.000 km. Alcanzando un tamaño que es unas 109 veces más grande que el de la Tierra, no hay dudas de que se trata de un astro enorme, sin embargo y para el asombro de muchos, es un tamaño ridículo en comparación al diámetro de otras estrellas colosales que abundan por allí, perdidas en el Universo. Compararla con Antares o Betelgeuse es un absurdo (ni hablar de las Cephei), pues simplemente superan los límites de nuestra imaginación, jamás podríamos imaginar algo tan, pero tan inmenso, enorme y supremo. Claro que no por ello vamos a sacarle méritos, el Sol es el objeto más grande que existe en el Sistema Solar y también el más pesado, tiene una masa de 1.98892 x 1030 kg, para hacértelo más gráfico, la masa del Sol es de 1,988,920,000,000,000,000,000,000,000,000 kilogramos, 330.000 veces mayor que la de la Tierra y 3498 veces mayor que la de Júpiter, que es el planeta más grande de nuestro sistema."
+        },
+        {
+            "titulo":"El Sol es el Sistema Solar en sí y no hay nada más importante", 
+            "texto": "El Sistema Solar recibe este nombre por una razón bien simple: absolutamente todo en el sistema depende de él y si no existiera el Sol, el sistema tampoco. A menudo pensamos que nuestro planeta es un miembro más del Sistema Solar, pero esto no puede estar más alejado de la realidad, entre otras cosas, porque la masa del Sol representa nada más ni nada menos que el 99,8% de toda la masa del Sistema Solar. La mayor parte de ese resto proviene además de Júpiter, así que la masa de la Tierra es una fracción de una fracción de la masa del Sistema Solar, es decir que en realidad apenas existe y el Sistema Solar es básicamente el Sol en sí mismo."
+        },
+        {
+            "titulo":"El Sol se está calentando cada vez más... y terminará con todo", 
+            "texto": "Teniendo en cuenta todos los detalles que hemos visto hasta ahora, resulta difícil imaginar la caída de este coloso, sin embargo, el Sol no estuvo ahí desde siempre, el Sol nació, cambia y lamentablemente, es un hecho que el Sol va a morir, destruyendo todo el Sistema Solar con su caída. Cada 10 mil millones de años se vuelve un 10% más brillante y mientras esto sucede, la vida en la Tierra como la conocemos es cada vez más y más difícil y esto continuará hasta que nuestro planeta será prácticamente agua. Las bacterias podrán vivir, pero nuestra especie así como la del resto de los animales perecerá. Por suerte, aún queda mucho, pero mucho tiempo..."
+        }
+    ],
+    "mercurio": [
+        {
+            "gravedad":"3.7",
+            "dias_orbita":"88"
+        },
+        {
+            "titulo":"¿Cuándo fue descubierto?", 
+            "texto": " Mercurio formaba parte de los planetas griegos aunque no se definieran igual que en la actualidad. Y también era conocido por los antiguos babilonios. Eso sí, la primera observación del planeta en la era científica fue llevada a cabo por el astrónomo inglés Thomas Harriott y el científico italiano Galileo Galilei en 1631."
+        },
+        {
+            "titulo":"Mercurio no tiene lunas", 
+            "texto": "Ni satélites naturales ni anillos. El planeta con la órbita más cercana al Sol lo hace sin la compañía de ningún satélite ni anillo. Es comprensible, teniendo en cuenta su baja gravedad, su pequeño tamaño y su finísima atmósfera."
+        },
+        {
+            "titulo":"Pequeño pero veloz", 
+            "texto": "A pesar de ser el planeta más pequeño de nuestro sistema solar y el que también está más cerca del Sol, a tan solo 0,4 unidades astronómicas, es el planeta más veloz, pues gira alrededor del Sol a una velocidad media de 170.505 kilómetros por hora. Su cercanía hace que sea entre 7 y 11 veces más brillante la luz solar aquí que en la Tierra."
+        },
+        {
+            "titulo":"Un planeta de contrastes", 
+            "texto": "Mercurio es un planeta curioso. El interior de los profundos cráteres de sus polos norte y sur está siempre a la sombra, por lo que, según los datos de la misión MESSENGER, sus cráteres podrían contener hielo de agua. Sin embargo, el resto del planeta presenta temperaturas muy calientes, de hasta más de 430 º C."
+        },
+        {
+            "titulo":"Muchos cráteres", 
+            "texto": "Con lo pequeño que es, con sus 4.876 kilómetros de diámetro, Mercurio es el planeta del sistema solar que tiene un mayor número de cráteres. Si finísima atmósfera ha permitido el paso de múltiples cometas y asteroides, que han dejado una importante huella en este planeta. Sin duda, los surcos de Pantheon Fossae, llaman mucho la atención. El cráter principal presenta largos y finos surcos, tan característicos, que le han otorgado el calificativo de “cráter araña”."
+        },
+        {
+            "titulo":"Protagonista de la ciencia ficción", 
+            "texto": "El planeta Mercurio ha servido de inspiración múltiples veces para el campo de la ciencia ficción. Por ejemplo, Isaac Asimov y su conocido libro “Yo, robot”, presenta precisamente un robot fabricado para soportar la radiación solar más extrema, como la de Mercurio. En la serie animada Invasor Zim, Mercurio aparece transformado en una nave espacial."
+        }
+    ],
+    "venus": [
+        {
+            "gravedad":"8.87",
+            "dias_orbita":"225"
+        },
+        {
+            "titulo":"Venus tiene fases, como la Luna", 
+            "texto": "Es una de las curiosidades menos conocidas de nuestro planeta vecino. Venus orbita alrededor del Sol pero lo hace dentro de la propia órbita que la Tierra mantiene en su traslación, lo que acaba generando un efecto claro que se asemeja a las fases Lunares.\n\nAsí, cuando Venus está en la cara opuesta al Sol podemos decir que está en el equivalente a «fase llena», mientras que cuando se sitúa entre la Tierra y el Sol se encuentra en «fase nueva».\n\nEsto es importante por un motivo muy simple, y es que Venus es uno de los cuerpos más brillantes de nuestro sistema solar, después del Sol y la Luna."
+        },
+        {
+            "titulo":"Su superficie está azotada por vientos huracanados", 
+            "texto": "Sabemos que Venus es un planeta totalmente hostil para la vida, salvando lo que conocemos como organismos extremófilos, y sus vientos huracanados son una clara muestra de ello.\n\nLos vientos pueden alcanzar hasta los 724 kilómetros por hora. Para que os hagáis una idea los tornados que se producen en la Tierra tienen velocidades medias de 180 kilómetros por hora."
+        },
+        {
+            "titulo":"Venus ha sido el planeta más observado", 
+            "texto": "A pesar de que es un planeta vecino y de que se encuentra a millones de kilómetros de la Tierra es un planeta muy brillante, algo que hace posible su observación directa sin necesidad de instrumentos ni herramientas.\n\nEsto ha convertido a Venus en el planeta más observado de toda la historia, y también en uno de los más estudiados, ya que hay registros con referencias a él que datan del año 1.600 antes de Cristo."
+        },
+        {
+            "titulo":"Es el planeta más brillante", 
+            "texto": "Ya lo hemos adelantado en puntos anteriores, Venus es el planeta más brillante de nuestro sistema solar y en el cielo nocturno sólo queda por detrás de la Luna, ¿pero por qué?\n\nHay un total de tres grandes razones que lo explican: su cercanía a la Tierra, su tamaño (es considerablemente grande) y su albedo, es decir, la gran cantidad de luz que puede reflejar gracias a su atmósfera, que es muy rica en CO2."
+        },
+        {
+            "titulo":"Podemos verlo cruzar el Sol", 
+            "texto": "Es una auténtica rareza ya que Venus uno de los dos únicos planetas que podemos ver desde la Tierra en su tránsito alrededor del Sol. Para los curiosos aclaramos que el otro es Mercurio.\n\nPor desgracia no es algo frecuente y de hecho desde que se inventaron los telescopios (siglo XVI) sólo se ha podido visualizar en siete ocasiones, y la última se produjo en el año 2012."
+        },
+        {
+            "titulo":"Su superficie tiene presiones extremas", 
+            "texto": "Este es otro de los elementos que lo convierte en un planeta imposible para la raza humana. En su superficie la presión es 90 veces mayor que en la Tierra, consecuencia directa de la densa atmósfera que cubre el planeta\n\n¿Qué quiere decir esto? Pues que la presión que tendríamos que soportar sería la misma que habría al colocarnos en el mar a un kilómetro de profundidad. Dicho de otra forma más sencilla, la presión nos aplastaría."
+        },
+        {
+            "titulo":"Venus es un infierno ardiente", 
+            "texto": "Sabemos que no es el planeta más cercano al Sol y sin embargo su superficie registra las temperaturas más altas de todo el sistema solar, por encima incluso de Mercurio, llegando a superar los 470 grados Celsius, ¿pero cómo es esto posible?.\n\nLa clave está en la atmósfera, que es muy densa y cuenta con una gran cantidad de CO2. Ese CO2 genera un efecto invernadero amplificado que eleva las temperaturas hasta niveles que pueden fundir el plomo."
+        },
+        {
+            "titulo":"Tiene cosas en común con la Tierra", 
+            "texto": "Venus no es un gemelo de nuestro planeta, pero hay que reconocer que tiene algunas semejanzas con ella. Las más importantes son que ambos tienen un tamaño casi idéntico, una composición parecida y una atmósfera densa y con nubes.\n\nSin embargo Venus es un infierno absoluto como hemos visto y dicha atmósfera es totalmente tóxica, ya que presenta CO2 y ácido sulfúrico."
+        },
+        {
+            "titulo":"Tiene muchos volcanes", 
+            "texto": "Los expertos aseguran que Venus tiene en su superficie unos 1.600 volcanes, aunque no descartan que la cifra sea mayor ya que es posible que existan algunos de menor tamaño que todavía no hayan sido identificados.\n\nSe estima que la mayoría están dormidos, pero es imposible negar la posibilidad de que algunos puedan seguir activos."
+        }
+    ],
+    "tierra": [
+        {
+            "gravedad":"9.8",
+            "dias_orbita":"365"
+        },
+        {
+            "titulo":"Su campo magnético es un escudo protector", 
+            "texto": "El Sol bombardea constantemente el Planeta Tierra con sus partículas, pero su campo magnético actúa como un escudo. Este se extiende desde el núcleo interno de la Tierra hasta el límite en el que se encuentra con el viento solar (una corriente de partículas cargadas que se liberan desde la atmósfera superior del Sol, llamada corona solar).\n\nEl campo magnético también es una guía que ayuda a la orientación de muchos animales, y gracias a las brújulas, también al ser humano."
+        },
+        {
+            "titulo":"Es un planeta de hierro", 
+            "texto": "La Tierra es planeta más denso del Sistema Solar. Según informa la BBC, los elementos químicos más presentes son el hierro (alrededor del 32%), el oxígeno ( 30%) y el silicio (15%).\n\nLos científicos creen que el núcleo de la Tierra está compuesto por un 88% de hierro."
+        },
+        {
+            "titulo":"Temperaturas de todo tipo", 
+            "texto": "La Tierra está llena de contrastes. El lugar con la mayor temperatura jamás registrada está en el Valle de la Muerte de Estados Unidos donde el 10 de julio de 1913 el termómetro subió hasta los 56,7 °C.\n\nEn el otro extremo se encuentra la Antártica. En la estación Vostok, el  31 de Julio de 1983 se registraron temperaturas de −89.2 °C."
+        },
+        {
+            "titulo":"La estructura viviente más grande de La Tierra puede verse desde el espacio", 
+            "texto": "La mayor estructura única formada por organismos vivos es la Gran Barrera de Coral australiana. Su longitud es de más de 2.300 kilómetros comprende miles de arrecifes y cientos de islas compuestas por más de 600 tipos de corales, duros y blandos. Además, acoge a miles de especies marinas como peces coloridos, moluscos y estrellas de mar, junto con tortugas, delfines y tiburones.\n\nEn 1981, fue declarada Patrimonio de la Humanidad por la Unesco."
+        },
+        {
+            "titulo":"Hay lagos en La Tierra que pueden explotar", 
+            "texto": "Es real, y ocurre en Camerún y en la frontera de Ruanda y la República Democrática del Congo. Allí se encuentran 3 lagos mortales: Nyos, Monoun y Kivu.\n\nLo explica la revista Muy Interesante: 'Son 3 lagos de cráteres que se asientan sobre la tierra volcánica. El magma debajo de la superficie libera dióxido de carbono en los lagos, esto hace que la capa profunda quede justo encima del lecho de los lagos, lo que se traduce en que ese dióxido de carbono puede ser liberado en una explosión.'"
+        },
+        {
+            "titulo":"La gravedad no es igual en todos los puntos del planeta", 
+            "texto": "La Tierra no es una esfera perfecta, su masa se distribuye de manera desigual, y esto provoca que la gravedad también lo sea. El lugar con mayor gravedad del planeta es la Bahía de Hudson de Canadá, y que esto suceda tiene un por qué. El causante de esta gravedad es el derretimiento de los glaciares, que varió la masa, en proporciones muy grandes, de esta zona, según explica la revista Science."
+        },
+        {
+            "titulo":"El lugar más profundo del océano", 
+            "texto": "El punto más bajo de la Tierra está a 10.916 metros bajo el nivel del mar. Se encuentra en una sección de la Fosa de Mariana conocida como Abismo de Challenger o Sima de Challenger.\n\nLa presión del agua en esta área es 1.095 veces mayor a la que podrías encontrar en la superficie. Lo que hace que sea muy difícil explorarla. En 2012, el explorador y director de cine James Cameron se convirtió en 'la primera persona en descender en solitario al punto más bajo de la tierra'."
+        }
+    ],
+    "marte": [
+        {
+            "gravedad":"3.7",
+            "dias_orbita":"687"
+        },
+        {
+            "titulo":"Lo más parecido a Marte que conocemos es la Antártida", 
+            "texto": "La Antártida es un lugar único y asombroso, lo hemos hablado en varias oportunidades. De haber un lugar en la Tierra que pueda parecerse a Marte, sería la Antártida, especialmente en sus regiones desérticas."
+        },
+        {
+            "titulo":"Tenemos partes de Marte aquí, en la Tierra", 
+            "texto": "Sabemos que ambos, tanto la Tierra como Marte, originalmente se formaron a partir de una serie de choques cósmicos, moldeados por gigantes asteroides miles de millones de años atrás. Parte de los fragmentos resultantes de los impactos en Marte terminaron orbitando en el Sistema Solar durante millones de años y guiados por fuerzas gravitacionales, terminaron aquí, en la Tierra."
+        },
+        {
+            "titulo":"Marte también tiene 4 estaciones", 
+            "texto": "Quizás esta si que no la conocías: en Marte hay 4 estaciones (primavera, verano, otoño e invierno) tal como en la Tierra. La gran diferencia radica en la duración que estas estaciones tienen en nuestro planeta vecino. En el hemisferio norte, la primavera marciana dura 7 meses y el verano 6, pero el otoño y el invierno varían en pequeños lapsos temporales."
+        },
+        {
+            "titulo":"Los egipcios fueron los primeros en nombrar el planeta", 
+            "texto": "El primer nombre de Marte fue Har dècher, que significaría algo así como “el rojo”, y le fue otorgado por los antiguos egipcios. Además, los babilonios le llamaron Nergal (“estrella de la muerte”), Ares y Marte le llamaron los griegos y los romanos, respectivamente, en honor a sus deidades y por último, los hebreos le llamaron Ma'adim, que significaría “el que se sonroja”. Curioso, ¿eh?"
+        },
+        {
+            "titulo":"El tercer mes del año", 
+            "texto": "Siguiendo la cuestión de las nominalizaciones, Marzo, el tercer mes del calendario gregoriano, recibió su nombre por Marte. Etimológicamente, Marzo viene del latín Martivs, derivado de Mars, que era el dios de la guerra para los romanos y que en nuestro idioma sería Marte."
+        },
+        {
+            "titulo":"Tiene las peores tormentas de arena que puedas imaginar", 
+            "texto": "A pesar de su tamaño, Marte tiene las tormentas de arena y polvo más grandes, intensas y poderosas de todo el Sistema Solar. Como hemos visto anteriormente, la idea de colonizar Marte para que los seres humanos lo habiten está más cerca de lo que creíamos y éste tema de las tormentas es uno de los mayores retos que los ingenieros del proyecto Mars One enfrentan. Los científicos de la NASA han constatado las aterradoras tormentas de arena en Marte desde 1971 y aunque aún hoy no han podido determinar por qué duran tanto tiempo (varios meses) y son tan intensas, suponen que el hecho de que las partículas de polvo presentes en la atmósfera de Marte absorban tanto la luz del Sol, eleven las temperaturas de la atmósfera y provoquen fuertes vientos, tiene mucho que ver al respecto."
+        },
+        {
+            "titulo":"Marte tiene la montaña más alta del Sistema Solar", 
+            "texto": "Otro de los récords planetarios que Marte posee es el de la montaña más alta de todo el Sistema Solar. Se conoce como el Monte Olimpo y se eleva más de 27 km por encima de las llanuras circundantes."
+        },
+        {
+            "titulo":"También tiene el cañón más profundo", 
+            "texto": "Así es, también tiene el cañón más profundo de todo el Sistema Solar. Se trata del Valles Marineris, que se extiende por 4000 km de longitud desde el ecuador marciano y tiene regiones con 7 km de profundidad."
+        },
+        {
+            "titulo":"¿Por qué Marte es rojo?", 
+            "texto": "Su mote no es por casualidad, sino por causalidad. Marte es rojo porque tiene enormes cantidades de óxido de hierro (hierro y oxígeno). El planeta entero está en oxidación, literalmente, las rocas metálicas y las montañas de Marte están oxidándose constantemente, por eso el planeta entero tiene ese característico color oxidado que varía entre tonos de rojo oscuro, marrón rojizo y marrón oscuro."
+        },
+        {
+            "titulo":"La atmósfera de Marte es lo que no permite que haya agua", 
+            "texto": "La delgadísima atmósfera de Marte, compuesta en gran parte por dióxido de carbono, es la razón por la cual no hay agua en estado líquido en Marte. Puede haber vapor y es sabido que hay hielo, pero no agua líquida."
+        },
+        {
+            "titulo":"De Marte a la Tierra en automóvil", 
+            "texto": "Si en un automóvil viajamos desde Marte a la Tierra, a una velocidad de 60 mph o unos 96 km/h, nos llevaría un total de 271 años y 221 días llegar a casa."
+        },
+        {
+            "titulo":"Si un hubiera humanos en Marte", 
+            "texto": "Si hubiera humanos en Marte y no usaran el traje espacial adecuado para el acontecimiento, moriría rápidamente, pero con mucho dolor. Lo que sucedería es que debido a la presión tan, pero tan baja de Marte, el oxígeno de la sangre que recorre todo el cuerpo literalmente se volvería burbujas y provocaría una dolorosa muerte de inmediato."
+        }
+    ],
+    "jupiter": [
+        {
+            "gravedad":"24.79",
+            "dias_orbita":"4380"
+        },
+        {
+            "titulo":"¿Júpiter tiene anillos?", 
+            "texto": "Estamos acostumbrados a pensar que el único planeta del Sistema Solar que tiene a anillos en derredor es Saturno. Pues déjame sacarte de ese error: Júpiter también tiene anillos, solo que son muy difíciles de observar. Son resultado del material que se expulsa cuando los meteoritos impactan con sus lunas."
+        },
+        {
+            "titulo":"¿Cuántas lunas tiene el planeta Júpiter?", 
+            "texto": "El planeta Júpiter tiene más de 60 lunas, esto quiere decir que no se sabe con exactitud la cifra, pues han ido apareciendo a lo largo del tiempo. No todos estos cuerpos tienen el mismo origen, algunos son asteroides atraídos por la gravedad; otros emergieron en los orígenes del Sistema Solar."
+        },
+        {
+            "titulo":"La radiación de Júpiter", 
+            "texto": "La razón por la que vemos normalmente al resto de los planetas del Sistema Solar es porque el sol emite grandes cantidades de radiación y esto hace que se iluminen todos los cuerpos de este espacio. Sin embargo, Júpiter también emite su propia radiación. De hecho, los científicos consideran que el planeta se está contrayendo, por lo que libera mucha energía gravitacional."
+        },
+        {
+            "titulo":"La Gran mancha roja", 
+            "texto": "Se le llama la Gran mancha roja a una estructura que observamos en la superficie de Júpiter en forma de mancha. Se formó hace aproximadamente 350 años y no ha dado señales de que vaya a desaparecer. Se trata de una gran tormenta que luce pequeña en comparación con Júpiter, pero es mayor que la Tierra."
+        },
+        {
+            "titulo":"¿Cómo son las nubes de Júpiter?", 
+            "texto": "Las nubes de Júpiter, en primer lugar, son una capa fina de tan solo 50 km de espesor. Están formadas de cristales de amonio que, al darles la luz del sol, adoptan la hermosa coloración que vemos. Debajo de las nubes solo hay hidrógeno y helio."
+        },
+        {
+            "titulo":"El planeta que más rápido gira", 
+            "texto": "Júpiter está considerado el planeta que gira más rápido en todo el Sistema Solar, algo que asombra dado su gran masa. Si bien en la Tierra un día dura 24 horas, en el planeta gigante este fenómeno ocurre cada 10 horas."
+        },
+        {
+            "titulo":"¿Cuántas visitas hemos hecho a Júpiter?", 
+            "texto": "Los científicos han enviado siete misiones a Júpiter, comenzando por la Pioneer 10 y la Pioneer 11 en 1973 y 1974, respectivamente. Son todas exploraciones aéreas con sobrevuelos, de los cuales se ha obtenido la información anterior. La última misión fue lanzada por la NASA en el 2007."
+        }
+    ],
+    "saturno": [
+        {
+            "gravedad":"10.44",
+            "dias_orbita":"10767.5"
+        },
+        {
+            "titulo":"Saturno es muy grande, ¿pero sabes cuánto?", 
+            "texto": "El planeta de los anillos es como dijimos el segundo más grande de nuestro sistema solar, ya que sólo Júpiter tiene un tamaño mayor que él.\n\nEsto nos dice mucho pero al mismo tiempo muy poco si no profundizamos y hablamos de cifras concretas. Según los últimos datos recopilados Saturno tiene un diámetro de 120.537 km, diez veces mayor que el de nuestro hogar, y en él podríamos «introducir» aproximadamente 750 planetas como la Tierra.\n\nComo dato curioso en el Sol cabrían unos 1.600 planetas como Saturno."
+        },
+        {
+            "titulo":"Un año en Saturno dura casi tres décadas", 
+            "texto": "El año en Saturno, entendido como el tiempo que tarda dicho planeta en dar una vuelta completa al Sol, dura 10.759,22 días terrestres, o lo que es lo mismo, 29,4 años terrestres."
+        },
+        {
+            "titulo":"Saturno es muy frío y presenta tormentas de auténtica pesadilla", 
+            "texto": "En el gigante anillado se registran temperaturas de hasta 212 grados bajo cero, mínimos mucho más extremos que los de la Tierra, donde el récord sigue fijado en 129 grados bajo cero.\n\nLas tormentas en Saturno también producen mega-relámpagos con una potencia mil veces mayor que los de nuestro planeta."
+        },
+        {
+            "titulo":"Está formado mayoritariamente de hidrógeno y es ovalado", 
+            "texto": "Al contrario de lo que pueda parecer por las recreaciones que hemos visto Saturno no es circular, sino que tiene una forma más bien ovalada y de hecho es el planeta más plano de todos los que se encuentran en el sistema solar.\n\nEsto se debe a su baja densidad y alta velocidad de rotación, lo que hace a su vez que su día (rotación completa) dure 10 horas y 34 minutos."
+        },
+        {
+            "titulo":"Tiene el mayor cuerpo de anillos del sistema solar", 
+            "texto": "Saturno no es el único planeta del sistema solar que tiene anillos, pero sí que puede presumir de ser el tiene la mayor cantidad de ellos.\n\nEsos anillos están hechos de miles de millones de partículas que van desde pequeños granos similares a una mota de polvo hasta otros enormes que llegan a tener el tamaño de una montaña.\n\nEn su mayoría están formados de restos de hielo y roca procedentes de cometas y diferentes cuerpos espaciales, como cometas y asteroides y miden unos 282.000 kilómetros de longitud."
+        },
+        {
+            "titulo":"Saturno tiene 150 lunas y minilunas", 
+            "texto": "Además de unos anillos impresionantes Saturno también está rodeado por una enorme cantidad de satélites, que podemos clasificar deforma simplista en lunas y minilunas (aquellas de tamaño muy pequeño).\n\nTodos sus satélites son mundos helados verdaderamente únicos, y entre ellos podemos encontrar algunos tan interesantes como Titán, que está formado de hielo y roca y cuenta con una atmósfera rica en nitrógeno.\n\nDicha luna ha sido considerada por los científicos como una de las que más posibilidades tiene de albergar restos de vida unicelular."
+        },
+        {
+            "titulo":"Es menos denso que el agua", 
+            "texto": "De todos los planetas que forman el sistema solar Saturno es el menos denso, lo que significa que podría flotar en el agua si tuviéramos una «piscina» lo bastante grande como para darle cabida."
+        }
+    ],
+    "urano": [
+        {
+            "gravedad":"8.87",
+            "dias_orbita":"30660"
+        },
+        {
+            "titulo":"Urano tiene anillos", 
+            "texto": "Se trata del segundo planeta con más anillos de nuestro sistema solar, el problema es que dichos anillos están formados en su mayoría de materiales muy oscuros, lo que hace que no sean tan fáciles de ver como los de Saturno.\n\nSe estima que hay un total de trece anillos en Urano y que los mismos no se formaron con el planeta, sino posteriormente. El más brillante es el de Épsilon."
+        },
+        {
+            "titulo":"Es el planeta más frío del sistema solar", 
+            "texto": "La temperatura mínima en este gigante de gas y hielo es de -226 grados Celsius, cifra que se consigue gracias a que Urano tiene un núcleo mucho más frío que el de otros planetas, y a que absorbe menos calor del que recibe por parte del Sol."
+        },
+        {
+            "titulo":"Urano orbita el Sol de lado", 
+            "texto": "A diferencia de planetas como la Tierra o Marte, que tienen un eje axial de rotación de 23,5 y 24 grados, el de Urano es de 99 grados.\n\nEsto quiere decir básicamente que el planeta rota de lado, lo que hace que parezca casi una «pelota» en su movimiento orbital alrededor del Sol."
+        },
+        {
+            "titulo":"Una estación dura 42 años", 
+            "texto": "En Urano la enorme inclinación de su eje hace que en el polo norte del planeta las estaciones tengan una duración de nada más y nada menos que 42 años.\n\nEsto quiere decir que si nos encontramos en esa zona tendremos 42 años constantes de luz solar («verano»), seguidos de 42 años continuados de oscuridad total («invierno»)."
+        },
+        {
+            "titulo":"La atmósfera de Urano contiene hielo", 
+            "texto": "Ya hemos adelantado que Urano es un gigante de gas y hielo, lo que significa que el planeta contiene enormes capas de hielo.\n\nEl más abundante es el metano helado y desde luego comparando con los tormentosos Júpiter y Saturno podemos decir que Urano tiene una atmósfera mucho más tranquila, aunque esto no quiere decir que la misma sea un remanso de paz, ya que en ella podemos encontrar vientos de hasta 900 km/h.\n\nJunto al metano también hay identificados restos de agua, amoníaco y dióxido de carbono, todos en forma de hielo debido a la baja temperatura del planeta."
+        },
+        {
+            "titulo":"Urano tiene 27 lunas", 
+            "texto": "Miranda, Ariel, Umbriel, Oberon y Titania son las lunas más grandes de Urano, y destacan por ser especialmente oscuras y difíciles de observar."
+        },
+        {
+            "titulo":"Tarda 84 años en dar una vuelta al Sol", 
+            "texto": "Debido a lo lejos que se encuentra de nuestro astro rey el gigante helado tarda nada más y nada menos que 84 años en dar una vuelta completa al Sol.\n\nHaciendo cuentas son unos 30.660 días o prácticamente toda la vida de un ser humano, lo que quiere decir que en Urano la mayoría de nosotros tendría una esperanza de vida media de un año, entendido como el tiempo que tarda el planeta en dar la vuelta al Sol."
+        }
+    ],
+    "neptuno": [
+        {
+            "gravedad":"11.15",
+            "dias_orbita":"60225"
+        },
+        {
+            "titulo":"Es una bola azulada de hielo y gas con temperaturas gélidas", 
+            "texto": "Muchos creen que Neptuno es un gigante gaseoso puro, pero al igual que Urano presenta muchas diferencias con los que sí cuadran perfectamente en esa categoría, como Júpiter y Saturno.\n\nLa más importante es que las capas inferiores del planeta están compuestas por grandes cantidades de hielo, lo que ha llevado a los expertos a encuadrarlo en la categoría de gigante helado.\n\nEse color azul intenso que muestra se debe a los rastros de metano que se encuentran en las regiones periféricas exteriores. Su temperatura puede llegar hasta los -224 grados."
+        },
+        {
+            "titulo":"Tiene catorce lunas, una de ellas con «sorpresa»", 
+            "texto": "Como suele ocurrir con los planetas de gran tamaño Neptuno tiene una gran cantidad de satélites. Los expertos han identificado 14 lunas, aunque la cifra podría ser mayor ya que no ha sido cerrada definitivamente.\n\nDe esas lunas Tritón es la única que tiene una forma totalmente esférica y se cree que originalmente fue un planeta enano que acabó cediendo a la atracción del campo de gravedad del gigante helado.\n\nSe ha confirmado que Tritón es un cuerpo rocoso y helado, lo que lo convierte en algo muy parecido a Plutón, y que además tiene actividad volcánica. Es el cuerpo más frío de todos los conocidos en el sistema solar, ya que registra temperaturas de -235 grados."
+        },
+        {
+            "titulo":"Es el planeta más denso de los gigantes de gas del sistema solar", 
+            "texto": "Su masa es diecisiete veces mayor que la de la Tierra, y además es mucho más grande que nuestro planeta.\n\nPara que comparéis mejor os damos dos datos, la Tierra tiene un diámetro ecuatorial de 12.742 kilómetros y Neptuno llega hasta los 49.244 km."
+        },
+        {
+            "titulo":"Tiene los vientos más potentes del sistema solar", 
+            "texto": "¿Crees que un tornado da miedo? Sí, desde luego, ya que hablamos de vientos a más de 480 kilómetros por hora, pero con ese dato en mente imagina lo que puede hacer una corriente de vientos a 2.400 kilómetros por hora.\n\nEsa es la velocidad que alcanzan en Neptuno, y según los expertos es posible por la baja fricción que existe en la atmósfera del planeta, fruto de las bajas temperaturas y del flujo continuo de gases."
+        },
+        {
+            "titulo":"Un año en Neptuno equivale a 165 años terrestres", 
+            "texto": "Sin embargo un día dura apenas 16 horas y 6 minutos, debido a la alta velocidad del planeta sobre su propio eje. Un día en la Tierra dura 24 horas, así que podemos ver claramente la diferencia."
+        },
+        {
+            "titulo":"Tiene anillos, pero muy tenues", 
+            "texto": "Están compuestos mayoritariamente de partículas y restos de polvo y roca, con una base de carbono que los hace más parecidos a los de Júpiter que a los de Saturno o Urano.\n\nEn total se han identificado cinco anillos con tamaños muy dispares. Los más pequeños rondan unos 100 kilómetros de ancho, mientras que los más grandes llegan a los 5.000 kilómetros."
+        },
+        {
+            "titulo":"Está muy lejos y podría tener un núcleo con diamantes enormes", 
+            "texto": "Sabemos que es el último planeta del sistema solar y que por tanto hace falta mucho tiempo para llegar hasta él, ¿pero sabes cuánto?\n\nNo podemos darte una cifra exacta, pero en su momento la misión Voyager 2 (lanzada en 1977) tardó 12 años en llegar. Por su parte New Horizons, lanzada en 2006, tardó nueve años en llegar a Plutón, que está todavía más lejos que Neptuno.\n\nPor último otro dato curioso, y es que se cree que el núcleo de Neptuno podría estar formado de diamantes gigantes, aunque sería imposible conseguirlos, al menos con los medios actuales."
+        }
+    ]
+}
